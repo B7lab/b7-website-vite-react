@@ -7,10 +7,10 @@ function HeroBanner() {
 
         <img src="/img/logo/logo4.png" alt="B7 Logo" id="hero-banner-logo" />
         <div className="color-band" id="hero-sub-banner-1">
-            <h1>Die Zeche</h1>
+            <h2 className="banner-heading">Die Zeche</h2>
         </div>
         <div className="color-band" id="hero-sub-banner-2">
-            <h2>zum Mitmachen</h2>
+            <h2 className="banner-heading">zum Mitmachen</h2>
         </div>
 
         <a href="/" className="banner-link" aria-label="Zur Startseite"></a>

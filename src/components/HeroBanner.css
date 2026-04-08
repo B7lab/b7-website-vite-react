@@ -1,0 +1,53 @@
+  
+  .banner-heading{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+/* ------------ */
+/* ---HEADER--- */
+/* ------------ */
+
+#main-header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: var(--dunkelgrau);
+    width: 100%;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#sponsors {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-grow: 1; 
+    padding: 5px 10px;
+    max-width: 32%;
+    margin: auto;
+}
+
+#sponsors p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0; 
+    white-space: nowrap;
+}
+
+.sponsor-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 5px 15px;
+    margin: 0 20px;
+    gap: 20px; 
+}
+
+.sponsor-logos img {
+    max-height: 50px;
+    width: auto;
+}
