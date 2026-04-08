@@ -10,11 +10,11 @@ function HomePage() {
         <div id="sponsors">
             <p>Gefördert durch</p>
             <div className="sponsor-logos">
-                <img src="/public/img/sponsor/sponsor1.png" alt="Sponsor 1" />
-                <img src="/public/img/sponsor/sponsor2.png" alt="Sponsor 2" />
-                <img src="/public/img/sponsor/sponsor3.png" alt="Sponsor 3" />
-                <img src="/public/img/sponsor/sponsor4.png" alt="Sponsor 4" />
-                <img src="/public/img/sponsor/sponsor5.png" alt="Sponsor 5" />
+                <img src="../../public/img/sponsor/sponsor1.png" alt="Sponsor 1" />
+                <img src="../../public/img/sponsor/sponsor2.png" alt="Sponsor 2" />
+                <img src="../../public/img/sponsor/sponsor3.png" alt="Sponsor 3" />
+                <img src="../../public/img/sponsor/sponsor4.png" alt="Sponsor 4" />
+                <img src="../../public/img/sponsor/sponsor5.png" alt="Sponsor 5" />
             </div>
         </div>
 
