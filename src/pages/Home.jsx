@@ -10,11 +10,11 @@ function HomePage() {
         <div id="sponsors">
             <p>Gefördert durch</p>
             <div className="sponsor-logos">
-                <img src="../../public/img/sponsor/sponsor1.png" alt="Sponsor 1" />
-                <img src="../../public/img/sponsor/sponsor2.png" alt="Sponsor 2" />
-                <img src="../../public/img/sponsor/sponsor3.png" alt="Sponsor 3" />
-                <img src="../../public/img/sponsor/sponsor4.png" alt="Sponsor 4" />
-                <img src="../../public/img/sponsor/sponsor5.png" alt="Sponsor 5" />
+                <img src="../../img/sponsor/sponsor1.png" alt="Sponsor 1" />
+                <img src="../../img/sponsor/sponsor2.png" alt="Sponsor 2" />
+                <img src="../../img/sponsor/sponsor3.png" alt="Sponsor 3" />
+                <img src="../../img/sponsor/sponsor4.png" alt="Sponsor 4" />
+                <img src="../../img/sponsor/sponsor5.png" alt="Sponsor 5" />
             </div>
         </div>
 
@@ -100,12 +100,12 @@ function HomePage() {
                         <li><a href="/impressum">Impressum</a></li>
                         <li>
                             <a href="https://facebook.com" target="_blank">
-                                <img src="../../public/img/icon/facebook-icon_800x800.svg" alt="Facebook" />
+                                <img src="../../img/icon/facebook-icon_800x800.svg" alt="Facebook" />
                             </a>
                         </li>
                         <li>
                             <a href="https://instagram.com" target="_blank">
-                                <img src="../../public/img/icon/instagram-icon_800x800.svg" alt="Instagram" />
+                                <img src="../../img/icon/instagram-icon_800x800.svg" alt="Instagram" />
                             </a>
                         </li>
                     </ul>
